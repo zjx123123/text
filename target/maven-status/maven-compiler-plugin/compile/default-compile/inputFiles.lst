@@ -1,0 +1,10 @@
+/data/workspace/teaching/2.teach/各高校文件/科贸/2019上半年/软件3/codes/weixin/src/main/java/org/fkjava/weixin/domain/text/TextInMessage.java
+/data/workspace/teaching/2.teach/各高校文件/科贸/2019上半年/软件3/codes/weixin/src/main/java/org/fkjava/weixin/service/JsonRedisSerializer.java
+/data/workspace/teaching/2.teach/各高校文件/科贸/2019上半年/软件3/codes/weixin/src/main/java/org/fkjava/weixin/service/impl/MessageServiceImpl.java
+/data/workspace/teaching/2.teach/各高校文件/科贸/2019上半年/软件3/codes/weixin/src/main/java/org/fkjava/weixin/domain/InMessage.java
+/data/workspace/teaching/2.teach/各高校文件/科贸/2019上半年/软件3/codes/weixin/src/main/java/org/fkjava/weixin/service/MessageTypeRegister.java
+/data/workspace/teaching/2.teach/各高校文件/科贸/2019上半年/软件3/codes/weixin/src/main/java/org/fkjava/weixin/domain/event/EventInMessage.java
+/data/workspace/teaching/2.teach/各高校文件/科贸/2019上半年/软件3/codes/weixin/src/main/java/org/fkjava/weixin/controller/MessageReceiverController.java
+/data/workspace/teaching/2.teach/各高校文件/科贸/2019上半年/软件3/codes/weixin/src/main/java/org/fkjava/weixin/domain/OUtMessage.java
+/data/workspace/teaching/2.teach/各高校文件/科贸/2019上半年/软件3/codes/weixin/src/main/java/org/fkjava/weixin/service/MessageService.java
+/data/workspace/teaching/2.teach/各高校文件/科贸/2019上半年/软件3/codes/weixin/src/main/java/org/fkjava/weixin/WeixinApplication.java
